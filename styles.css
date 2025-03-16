@@ -14,12 +14,13 @@ body{
 h1{
     text-align: center;
 }
-div{
+div {
     justify-items: center;
-    h3, p{
-        width: 90vw;
-    }
 }
+.book h3, .book p {
+    width: 90vw;
+}
+
 .book{
     margin: 20px;
 }
