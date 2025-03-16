@@ -4,11 +4,11 @@ body{
 .book-library{
     background-color: #ffffff;
 }
-button{
+.price{
     background-color: #2ecc71;
     width: 100vw;
 }
-p{
+.author{
     color: #777777;
 }
 h1{
