@@ -4,7 +4,8 @@ body{
 .book-library{
     background-color: #ffffff;
 }
-.price{
+.price-block{
+    text-align: center;
     background-color: #2ecc71;
     width: 100vw;
 }
